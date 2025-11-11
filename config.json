@@ -1,9 +1,0 @@
-{
-  "url": "http://localhost:8029/reportes_facturito_v2/factura_venta_individual",
-  "contrato": "8532931535",
-  "server": "127.0.0.1",
-  "db": "db0000000001",
-  "password": "Alfayomega1232*",
-  "user": "root",
-  "port": "5588"
-}
